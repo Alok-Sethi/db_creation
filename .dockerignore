@@ -1,0 +1,9 @@
+venv
+.venv
+__pycache__
+*.pyc
+employee.db
+identifier.sqlite
+.git
+node_modules
+.DS_Store
